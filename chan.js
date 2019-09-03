@@ -5,7 +5,7 @@ class chan {
 		this.getWaiter=[]
 		this.putWaiter=[]
 		this.size=size || 0
-		console.log("chan")
+		//console.log("chan")
 	}
 	put(v){
 		var that=this

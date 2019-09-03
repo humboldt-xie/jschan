@@ -1,0 +1,19 @@
+{
+  "name": "jchan",
+  "version": "1.0.0",
+  "description": "a chan to used on concurrency with async and await",
+  "main": "chan.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humboldt-xie/jschan.git"
+  },
+  "author": "humboldt.xie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/humboldt-xie/jschan/issues"
+  },
+  "homepage": "https://github.com/humboldt-xie/jschan#readme"
+}
